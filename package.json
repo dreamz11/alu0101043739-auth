@@ -1,0 +1,19 @@
+{
+  "name": "@alu0101043739/auth",
+  "version": "1.0.0",
+  "description": "practica dsi",
+  "main": "auth.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dreamz11/alu0101043739-auth.git"
+  },
+  "author": "Akshay <alu0101043739@ull.edu.es> (https://github.com/dreamz11)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dreamz11/alu0101043739-auth/issues"
+  },
+  "homepage": "https://github.com/dreamz11/alu0101043739-auth#readme"
+}
